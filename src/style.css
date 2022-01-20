@@ -1,0 +1,24 @@
+.mdl-card__title {
+    display: block;
+}
+.card-square > .mdl-card__title {
+    color: #fff;
+    background-color:#3f8eb5;
+}
+
+.mdl-card__subtitle-text{
+    font-size: 20px;
+}
+.mdl-card__supporting-text {
+    background-color: #eee;
+}
+.mdl-list__item {
+    background-color: white;
+    border: 1px solid #eee;
+}
+.icon-avatar {
+    margin-right: 15px;
+}
+.icon-item {
+    margin-right: 6px;
+}
